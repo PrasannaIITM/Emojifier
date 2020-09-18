@@ -12,4 +12,3 @@ Deep Learning Model Used: LSTM
 
 50 dimensional GloVe embeddings have been used.
 
-![alt text](https://github.com/PrasannaIITM/Emojifier/blob/master/images/emojiss.png)
